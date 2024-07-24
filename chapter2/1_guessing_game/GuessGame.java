@@ -9,10 +9,10 @@ public class GuessGame {
 
     private void initPlayer() {
         this.p1 = new Player();
-        this.p1.setPlayerName("Player1");
+        this.p1.setPlayerName("Amazon");
 
         this.p2 = new Player();
-        this.p2.setPlayerName("Player2");
+        this.p2.setPlayerName("Flipkart");
     }
 
     private int getRandomNumber() {
